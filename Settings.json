@@ -1,0 +1,6 @@
+{
+    "login": "",
+    "password": "",
+    "exc_cars": ["prius", "c-crosser", "polo", "outlander", "4007", "tiguan", "qashqai"],
+    "exc_towns": ["томск", "северск", "новосибирск", "кемерово", "красноярск", "алтай", "салехард", "барнаул"]
+}
